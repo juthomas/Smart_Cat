@@ -647,8 +647,8 @@ void printHttpPageContent(String link)
 	// //display.print(textString);
 }
 
-String getHttpsPagePayload(String link)
-{
+// String getHttpsPagePayload(String link)
+// {
 	// String payload = "";
 
 	// Serial.print("[HTTPS] begin...\n");
@@ -699,7 +699,7 @@ String getHttpsPagePayload(String link)
 	// 	Serial.printf("[HTTPS] Unable to connect\n");
 	// }
 	// return (payload);
-}
+// }
 
 void getHttpsPageStream(String link)
 {
